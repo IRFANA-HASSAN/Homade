@@ -99,7 +99,7 @@ const About = () => {
             <div className={`${isVisible ? 'animate-slide-in-right' : ''}`}>
               <div className="relative">
                 <img
-                  src="public/lovable-uploads/instagramjourney.jpg"
+                  src="/lovable-uploads/instagramjourney.jpg"
                   alt="Kerala spices and traditional cooking"
                   className="rounded-2xl shadow-2xl w-full h-96 object-cover"
                 />
